@@ -1,1 +1,2 @@
 # odin-recipes
+# I will be a creating a HTML page that will be a basic recipe website. It will have a main index page with links to recipes. I will also be putting in some photos and resizing them. Once completed I will have demonstrated that I can code a HTML template, insert links and images from outside sources and locally.
